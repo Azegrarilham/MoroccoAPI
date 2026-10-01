@@ -40,18 +40,25 @@ function assertSourceLanguageName(
   if (!isRecord(value)) {
     throw new Error(`Invalid ${label} name at index ${index}`);
   }
+
+  const enValue = value.en;
+
   if (
     typeof value.fr !== "string" ||
     value.fr.trim() === "" ||
     typeof value.ar !== "string" ||
     value.ar.trim() === "" ||
-    value.en !== null
+    (enValue !== null && typeof enValue !== "string") ||
+    (typeof enValue === "string" && enValue.trim() === "")
   ) {
     throw new Error(`Invalid ${label} name at index ${index}`);
   }
 }
 
-function assertProvince(value: unknown, index: number): asserts value is Province {
+function assertProvince(
+  value: unknown,
+  index: number,
+): asserts value is Province {
   if (
     !isRecord(value) ||
     typeof value.code !== "string" ||
@@ -82,12 +89,17 @@ function assertPrefectureOfArrondissements(
     typeof value.province_code !== "string" ||
     typeof value.region_code !== "string"
   ) {
-    throw new Error(`Invalid prefecture of arrondissements record at index ${index}`);
+    throw new Error(
+      `Invalid prefecture of arrondissements record at index ${index}`,
+    );
   }
   assertSourceLanguageName(value.name, "prefecture of arrondissements", index);
 }
 
-function assertCommune(value: unknown, index: number): asserts value is Commune {
+function assertCommune(
+  value: unknown,
+  index: number,
+): asserts value is Commune {
   if (
     !isRecord(value) ||
     typeof value.code !== "string" ||
@@ -128,7 +140,10 @@ function assertArrondissement(
   assertSourceLanguageName(value.name, "arrondissement", index);
 }
 
-function assertUniqueCodes(records: readonly { code: string }[], label: string): void {
+function assertUniqueCodes(
+  records: readonly { code: string }[],
+  label: string,
+): void {
   if (new Set(records.map((record) => record.code)).size !== records.length) {
     throw new Error(`${label} codes must be unique`);
   }
@@ -186,8 +201,13 @@ export async function loadGeography(
   if (!Array.isArray(parsedCommunes) || parsedCommunes.length !== 1503) {
     throw new Error("The communes dataset must contain exactly 1503 records");
   }
-  if (!Array.isArray(parsedArrondissements) || parsedArrondissements.length !== 41) {
-    throw new Error("The arrondissements dataset must contain exactly 41 records");
+  if (
+    !Array.isArray(parsedArrondissements) ||
+    parsedArrondissements.length !== 41
+  ) {
+    throw new Error(
+      "The arrondissements dataset must contain exactly 41 records",
+    );
   }
 
   parsedProvinces.forEach(assertProvince);
@@ -224,7 +244,9 @@ export async function loadGeography(
 
   for (const province of parsedProvinces) {
     if (!regionCodes.has(province.region_code)) {
-      throw new Error(`Unknown region code '${province.region_code}' for ${province.code}`);
+      throw new Error(
+        `Unknown region code '${province.region_code}' for ${province.code}`,
+      );
     }
   }
 
@@ -294,13 +316,20 @@ export async function loadGeography(
       commune.province_code !== arrondissement.province_code ||
       commune.region_code !== arrondissement.region_code
     ) {
-      throw new Error(`Parent mismatch for arrondissement '${arrondissement.code}'`);
+      throw new Error(
+        `Parent mismatch for arrondissement '${arrondissement.code}'`,
+      );
     }
     const province = parsedProvinces.find(
       (candidate) => candidate.code === arrondissement.province_code,
     );
-    if (!province || !arrondissement.hcp_code.startsWith(`${province.hcp_code}.`)) {
-      throw new Error(`HCP parent mismatch for arrondissement '${arrondissement.code}'`);
+    if (
+      !province ||
+      !arrondissement.hcp_code.startsWith(`${province.hcp_code}.`)
+    ) {
+      throw new Error(
+        `HCP parent mismatch for arrondissement '${arrondissement.code}'`,
+      );
     }
     const prefectureCode = arrondissement.prefecture_of_arrondissements_code;
     if (prefectureCode !== null) {
@@ -323,7 +352,9 @@ export async function loadGeography(
 
   const referencedPrefectures = new Set(
     parsedArrondissements
-      .map((arrondissement) => arrondissement.prefecture_of_arrondissements_code)
+      .map(
+        (arrondissement) => arrondissement.prefecture_of_arrondissements_code,
+      )
       .filter((code): code is string => code !== null),
   );
   if (
@@ -357,7 +388,8 @@ export function buildGeographyDatasetMeta(
     transformation_version: "3.0.0",
     sources: [
       {
-        dataset: "Population légale du Royaume du Maroc selon les résultats du RGPH 2024",
+        dataset:
+          "Population légale du Royaume du Maroc selon les résultats du RGPH 2024",
         producer: "Haut-Commissariat au Plan (HCP)",
         source_url:
           "https://www.hcp.ma/Population-legale-du-Royaume-du-Maroc-repartie-par-regions-provinces-et-prefectures-et-communes-selon-les-resultats-du_a3975.html",

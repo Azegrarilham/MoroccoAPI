@@ -6,7 +6,7 @@
     "name": {
       "ar": "عين الشق",
       "fr": "Aïn-Chock",
-      "en": null
+      "en": "Ain-Chock"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--ain-chock",
@@ -20,7 +20,7 @@
     "name": {
       "ar": "عين السبع",
       "fr": "Aïn-Sebaâ",
-      "en": null
+      "en": "Ain-Sebaa"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--ain-sebaa-hay-mohammadi",
@@ -34,7 +34,7 @@
     "name": {
       "ar": "الفداء",
       "fr": "Al-Fida",
-      "en": null
+      "en": "Al-Fida"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--al-fida-mers-sultan",
@@ -48,7 +48,7 @@
     "name": {
       "ar": "أنفا",
       "fr": "Anfa",
-      "en": null
+      "en": "Anfa"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--casablanca-anfa",
@@ -62,7 +62,7 @@
     "name": {
       "ar": "الصخور السوداء",
       "fr": "Asoukhour Assawda",
-      "en": null
+      "en": "Asoukhour Assawda"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--ain-sebaa-hay-mohammadi",
@@ -76,7 +76,7 @@
     "name": {
       "ar": "ابن مسيك",
       "fr": "Ben-M'sick",
-      "en": null
+      "en": "Ben-M'sick"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--ben-msick",
@@ -90,7 +90,7 @@
     "name": {
       "ar": "الحي الحسني",
       "fr": "Hay-Hassani",
-      "en": null
+      "en": "Hay-Hassani"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--hay-hassani",
@@ -104,7 +104,7 @@
     "name": {
       "ar": "الحي المحمدي",
       "fr": "Hay-Mohammadi",
-      "en": null
+      "en": "Hay-Mohammadi"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--ain-sebaa-hay-mohammadi",
@@ -118,7 +118,7 @@
     "name": {
       "ar": "المعاريف",
       "fr": "Maârif",
-      "en": null
+      "en": "Maarif"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--casablanca-anfa",
@@ -132,7 +132,7 @@
     "name": {
       "ar": "مرس السلطان",
       "fr": "Mers-Sultan",
-      "en": null
+      "en": "Mers-Sultan"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--al-fida-mers-sultan",
@@ -146,7 +146,7 @@
     "name": {
       "ar": "مولاي رشيد",
       "fr": "Moulay Rachid",
-      "en": null
+      "en": "Moulay Rachid"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--moulay-rachid",
@@ -160,7 +160,7 @@
     "name": {
       "ar": "سباتة",
       "fr": "Sbata",
-      "en": null
+      "en": "Sbata"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--ben-msick",
@@ -174,7 +174,7 @@
     "name": {
       "ar": "سيدي بليوط",
       "fr": "Sidi Belyout",
-      "en": null
+      "en": "Sidi Belyout"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--casablanca-anfa",
@@ -188,7 +188,7 @@
     "name": {
       "ar": "سيدي البرنوصي",
       "fr": "Sidi Bernoussi",
-      "en": null
+      "en": "Sidi Bernoussi"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--sidi-bernoussi",
@@ -202,7 +202,7 @@
     "name": {
       "ar": "سيدي مومن",
       "fr": "Sidi Moumen",
-      "en": null
+      "en": "Sidi Moumen"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--sidi-bernoussi",
@@ -216,7 +216,7 @@
     "name": {
       "ar": "سيدي عثمان",
       "fr": "Sidi Othmane",
-      "en": null
+      "en": "Sidi Othmane"
     },
     "commune_code": "casablanca--casablanca",
     "prefecture_of_arrondissements_code": "casablanca--prefecture-of-arrondissements--moulay-rachid",
@@ -230,7 +230,7 @@
     "name": {
       "ar": "أكدال",
       "fr": "Agdal",
-      "en": null
+      "en": "Agdal"
     },
     "commune_code": "fes--fes",
     "prefecture_of_arrondissements_code": null,
@@ -244,7 +244,7 @@
     "name": {
       "ar": "المرينيين",
       "fr": "El Mariniyine",
-      "en": null
+      "en": "El Mariniyine"
     },
     "commune_code": "fes--fes",
     "prefecture_of_arrondissements_code": null,
@@ -258,7 +258,7 @@
     "name": {
       "ar": "فاس المدينة",
       "fr": "Fès-Médina",
-      "en": null
+      "en": "Fes-Medina"
     },
     "commune_code": "fes--fes",
     "prefecture_of_arrondissements_code": null,
@@ -272,7 +272,7 @@
     "name": {
       "ar": "جنان الورد",
       "fr": "Jnan El Ouard",
-      "en": null
+      "en": "Jnan El Ouard"
     },
     "commune_code": "fes--fes",
     "prefecture_of_arrondissements_code": null,
@@ -286,7 +286,7 @@
     "name": {
       "ar": "سايس",
       "fr": "Saiss",
-      "en": null
+      "en": "Saiss"
     },
     "commune_code": "fes--fes",
     "prefecture_of_arrondissements_code": null,
@@ -300,7 +300,7 @@
     "name": {
       "ar": "زواغة",
       "fr": "Zouagha",
-      "en": null
+      "en": "Zouagha"
     },
     "commune_code": "fes--fes",
     "prefecture_of_arrondissements_code": null,
@@ -314,7 +314,7 @@
     "name": {
       "ar": "النخيل",
       "fr": "Annakhil",
-      "en": null
+      "en": "Annakhil"
     },
     "commune_code": "marrakech--marrakech",
     "prefecture_of_arrondissements_code": null,
@@ -328,7 +328,7 @@
     "name": {
       "ar": "جيليز",
       "fr": "Gueliz",
-      "en": null
+      "en": "Gueliz"
     },
     "commune_code": "marrakech--marrakech",
     "prefecture_of_arrondissements_code": null,
@@ -342,7 +342,7 @@
     "name": {
       "ar": "مراكش المدينة",
       "fr": "Marrakech-Médina",
-      "en": null
+      "en": "Marrakech-Medina"
     },
     "commune_code": "marrakech--marrakech",
     "prefecture_of_arrondissements_code": null,
@@ -356,7 +356,7 @@
     "name": {
       "ar": "المنارة",
       "fr": "Ménara",
-      "en": null
+      "en": "Menara"
     },
     "commune_code": "marrakech--marrakech",
     "prefecture_of_arrondissements_code": null,
@@ -370,7 +370,7 @@
     "name": {
       "ar": "سيدي يوسف بن علي",
       "fr": "Sidi Youssef Ben Ali",
-      "en": null
+      "en": "Sidi Youssef Ben Ali"
     },
     "commune_code": "marrakech--marrakech",
     "prefecture_of_arrondissements_code": null,
@@ -384,7 +384,7 @@
     "name": {
       "ar": "أكدال الرياض",
       "fr": "Agdal Riyad",
-      "en": null
+      "en": "Agdal Riyad"
     },
     "commune_code": "rabat--rabat",
     "prefecture_of_arrondissements_code": null,
@@ -398,7 +398,7 @@
     "name": {
       "ar": "اليوسفية",
       "fr": "El Youssoufia",
-      "en": null
+      "en": "El Youssoufia"
     },
     "commune_code": "rabat--rabat",
     "prefecture_of_arrondissements_code": null,
@@ -412,7 +412,7 @@
     "name": {
       "ar": "حسان",
       "fr": "Hassan",
-      "en": null
+      "en": "Hassan"
     },
     "commune_code": "rabat--rabat",
     "prefecture_of_arrondissements_code": null,
@@ -426,7 +426,7 @@
     "name": {
       "ar": "السويسي",
       "fr": "Souissi",
-      "en": null
+      "en": "Souissi"
     },
     "commune_code": "rabat--rabat",
     "prefecture_of_arrondissements_code": null,
@@ -440,7 +440,7 @@
     "name": {
       "ar": "يعقوب المنصور",
       "fr": "Yacoub El Mansour",
-      "en": null
+      "en": "Yacoub El Mansour"
     },
     "commune_code": "rabat--rabat",
     "prefecture_of_arrondissements_code": null,
@@ -454,7 +454,7 @@
     "name": {
       "ar": "باب لمريسة",
       "fr": "Bab Lamrissa",
-      "en": null
+      "en": "Bab Lamrissa"
     },
     "commune_code": "sale--sale",
     "prefecture_of_arrondissements_code": null,
@@ -468,7 +468,7 @@
     "name": {
       "ar": "بطانة",
       "fr": "Bettana",
-      "en": null
+      "en": "Bettana"
     },
     "commune_code": "sale--sale",
     "prefecture_of_arrondissements_code": null,
@@ -482,7 +482,7 @@
     "name": {
       "ar": "حصين",
       "fr": "Hssaine",
-      "en": null
+      "en": "Hssaine"
     },
     "commune_code": "sale--sale",
     "prefecture_of_arrondissements_code": null,
@@ -496,7 +496,7 @@
     "name": {
       "ar": "العيايدة",
       "fr": "Layayda",
-      "en": null
+      "en": "Layayda"
     },
     "commune_code": "sale--sale",
     "prefecture_of_arrondissements_code": null,
@@ -510,7 +510,7 @@
     "name": {
       "ar": "تابريكت",
       "fr": "Tabriquet",
-      "en": null
+      "en": "Tabriquet"
     },
     "commune_code": "sale--sale",
     "prefecture_of_arrondissements_code": null,
@@ -524,7 +524,7 @@
     "name": {
       "ar": "بني مكادة",
       "fr": "Bni Makada",
-      "en": null
+      "en": "Bni Makada"
     },
     "commune_code": "tanger-assilah--tanger",
     "prefecture_of_arrondissements_code": null,
@@ -538,7 +538,7 @@
     "name": {
       "ar": "المدينة",
       "fr": "Médina",
-      "en": null
+      "en": "Medina"
     },
     "commune_code": "tanger-assilah--tanger",
     "prefecture_of_arrondissements_code": null,
@@ -552,7 +552,7 @@
     "name": {
       "ar": "مغوغة",
       "fr": "Mghogha",
-      "en": null
+      "en": "Mghogha"
     },
     "commune_code": "tanger-assilah--tanger",
     "prefecture_of_arrondissements_code": null,
@@ -566,7 +566,7 @@
     "name": {
       "ar": "السواني",
       "fr": "Souani",
-      "en": null
+      "en": "Souani"
     },
     "commune_code": "tanger-assilah--tanger",
     "prefecture_of_arrondissements_code": null,

@@ -7,7 +7,7 @@
     "name": {
       "ar": "أكادير-إدا وتنان",
       "fr": "Agadir-Ida-Ou-Tanane",
-      "en": null
+      "en": "Agadir-Ida-Ou-Tanane"
     },
     "region_code": "souss-massa"
   },
@@ -19,7 +19,7 @@
     "name": {
       "ar": "الحوز",
       "fr": "Al Haouz",
-      "en": null
+      "en": "Al Haouz"
     },
     "region_code": "marrakech-safi"
   },
@@ -31,7 +31,7 @@
     "name": {
       "ar": "الحسيمة",
       "fr": "Al Hoceima",
-      "en": null
+      "en": "Al Hoceima"
     },
     "region_code": "tanger-tetouan-al-hoceima"
   },
@@ -43,7 +43,7 @@
     "name": {
       "ar": "أوسرد",
       "fr": "Aousserd",
-      "en": null
+      "en": "Aousserd"
     },
     "region_code": "dakhla-oued-ed-dahab"
   },
@@ -55,7 +55,7 @@
     "name": {
       "ar": "آسا-الزاك",
       "fr": "Assa-Zag",
-      "en": null
+      "en": "Assa-Zag"
     },
     "region_code": "guelmim-oued-noun"
   },
@@ -67,7 +67,7 @@
     "name": {
       "ar": "أزيلال",
       "fr": "Azilal",
-      "en": null
+      "en": "Azilal"
     },
     "region_code": "beni-mellal-khenifra"
   },
@@ -79,7 +79,7 @@
     "name": {
       "ar": "بني ملال",
       "fr": "Béni Mellal",
-      "en": null
+      "en": "Beni Mellal"
     },
     "region_code": "beni-mellal-khenifra"
   },
@@ -91,7 +91,7 @@
     "name": {
       "ar": "بنسليمان",
       "fr": "Benslimane",
-      "en": null
+      "en": "Benslimane"
     },
     "region_code": "casablanca-settat"
   },
@@ -103,7 +103,7 @@
     "name": {
       "ar": "بركان",
       "fr": "Berkane",
-      "en": null
+      "en": "Berkane"
     },
     "region_code": "oriental"
   },
@@ -115,7 +115,7 @@
     "name": {
       "ar": "برشيد",
       "fr": "Berrechid",
-      "en": null
+      "en": "Berrechid"
     },
     "region_code": "casablanca-settat"
   },
@@ -127,7 +127,7 @@
     "name": {
       "ar": "بوجدور",
       "fr": "Boujdour",
-      "en": null
+      "en": "Boujdour"
     },
     "region_code": "laayoune-sakia-el-hamra"
   },
@@ -139,7 +139,7 @@
     "name": {
       "ar": "بولمان",
       "fr": "Boulemane",
-      "en": null
+      "en": "Boulemane"
     },
     "region_code": "fes-meknes"
   },
@@ -151,7 +151,7 @@
     "name": {
       "ar": "الدار البيضاء",
       "fr": "Casablanca",
-      "en": null
+      "en": "Casablanca"
     },
     "region_code": "casablanca-settat"
   },
@@ -163,7 +163,7 @@
     "name": {
       "ar": "شفشاون",
       "fr": "Chefchaouen",
-      "en": null
+      "en": "Chefchaouen"
     },
     "region_code": "tanger-tetouan-al-hoceima"
   },
@@ -175,7 +175,7 @@
     "name": {
       "ar": "شيشاوة",
       "fr": "Chichaoua",
-      "en": null
+      "en": "Chichaoua"
     },
     "region_code": "marrakech-safi"
   },
@@ -187,7 +187,7 @@
     "name": {
       "ar": "اشتوكة-آيت باها",
       "fr": "Chtouka-Aït Baha",
-      "en": null
+      "en": "Chtouka-Ait Baha"
     },
     "region_code": "souss-massa"
   },
@@ -199,7 +199,7 @@
     "name": {
       "ar": "الدريوش",
       "fr": "Driouch",
-      "en": null
+      "en": "Driouch"
     },
     "region_code": "oriental"
   },
@@ -211,7 +211,7 @@
     "name": {
       "ar": "الحاجب",
       "fr": "El Hajeb",
-      "en": null
+      "en": "El Hajeb"
     },
     "region_code": "fes-meknes"
   },
@@ -223,7 +223,7 @@
     "name": {
       "ar": "الجديدة",
       "fr": "El Jadida",
-      "en": null
+      "en": "El Jadida"
     },
     "region_code": "casablanca-settat"
   },
@@ -235,7 +235,7 @@
     "name": {
       "ar": "قلعة السراغنة",
       "fr": "El Kelâa Des-Sraghna",
-      "en": null
+      "en": "El Kelaa Des-Sraghna"
     },
     "region_code": "marrakech-safi"
   },
@@ -247,7 +247,7 @@
     "name": {
       "ar": "الرشيدية",
       "fr": "Errachidia",
-      "en": null
+      "en": "Errachidia"
     },
     "region_code": "draa-tafilalet"
   },
@@ -259,7 +259,7 @@
     "name": {
       "ar": "السمارة",
       "fr": "Es-Semara",
-      "en": null
+      "en": "Es-Semara"
     },
     "region_code": "laayoune-sakia-el-hamra"
   },
@@ -271,7 +271,7 @@
     "name": {
       "ar": "الصويرة",
       "fr": "Essaouira",
-      "en": null
+      "en": "Essaouira"
     },
     "region_code": "marrakech-safi"
   },
@@ -283,7 +283,7 @@
     "name": {
       "ar": "الفحص-أنجرة",
       "fr": "Fahs-Anjra",
-      "en": null
+      "en": "Fahs-Anjra"
     },
     "region_code": "tanger-tetouan-al-hoceima"
   },
@@ -295,7 +295,7 @@
     "name": {
       "ar": "فاس",
       "fr": "Fès",
-      "en": null
+      "en": "Fès"
     },
     "region_code": "fes-meknes"
   },
@@ -307,7 +307,7 @@
     "name": {
       "ar": "فجيج",
       "fr": "Figuig",
-      "en": null
+      "en": "Figuig"
     },
     "region_code": "oriental"
   },
@@ -319,7 +319,7 @@
     "name": {
       "ar": "الفقيه بن صالح",
       "fr": "Fquih Ben Salah",
-      "en": null
+      "en": "Fquih Ben Salah"
     },
     "region_code": "beni-mellal-khenifra"
   },
@@ -331,7 +331,7 @@
     "name": {
       "ar": "كلميم",
       "fr": "Guelmim",
-      "en": null
+      "en": "Guelmim"
     },
     "region_code": "guelmim-oued-noun"
   },
@@ -343,7 +343,7 @@
     "name": {
       "ar": "جرسيف",
       "fr": "Guercif",
-      "en": null
+      "en": "Guercif"
     },
     "region_code": "oriental"
   },
@@ -355,7 +355,7 @@
     "name": {
       "ar": "إفران",
       "fr": "Ifrane",
-      "en": null
+      "en": "Ifrane"
     },
     "region_code": "fes-meknes"
   },
@@ -367,7 +367,7 @@
     "name": {
       "ar": "إنزكان-آيت ملول",
       "fr": "Inezgane-Aït Melloul",
-      "en": null
+      "en": "Inezgane-Ait Melloul"
     },
     "region_code": "souss-massa"
   },
@@ -379,7 +379,7 @@
     "name": {
       "ar": "جرادة",
       "fr": "Jerada",
-      "en": null
+      "en": "Jerada"
     },
     "region_code": "oriental"
   },
@@ -391,7 +391,7 @@
     "name": {
       "ar": "القنيطرة",
       "fr": "Kénitra",
-      "en": null
+      "en": "Kenitra"
     },
     "region_code": "rabat-sale-kenitra"
   },
@@ -403,7 +403,7 @@
     "name": {
       "ar": "الخميسات",
       "fr": "Khémisset",
-      "en": null
+      "en": "Khemisset"
     },
     "region_code": "rabat-sale-kenitra"
   },
@@ -415,7 +415,7 @@
     "name": {
       "ar": "خنيفرة",
       "fr": "Khénifra",
-      "en": null
+      "en": "Khenifra"
     },
     "region_code": "beni-mellal-khenifra"
   },
@@ -427,7 +427,7 @@
     "name": {
       "ar": "خريبكة",
       "fr": "Khouribga",
-      "en": null
+      "en": "Khouribga"
     },
     "region_code": "beni-mellal-khenifra"
   },
@@ -439,7 +439,7 @@
     "name": {
       "ar": "العيون",
       "fr": "Laâyoune",
-      "en": null
+      "en": "Laayoune"
     },
     "region_code": "laayoune-sakia-el-hamra"
   },
@@ -451,7 +451,7 @@
     "name": {
       "ar": "العرائش",
       "fr": "Larache",
-      "en": null
+      "en": "Larache"
     },
     "region_code": "tanger-tetouan-al-hoceima"
   },
@@ -463,7 +463,7 @@
     "name": {
       "ar": "المضيق-الفنيدق",
       "fr": "M'diq-Fnideq",
-      "en": null
+      "en": "M'diq-Fnideq"
     },
     "region_code": "tanger-tetouan-al-hoceima"
   },
@@ -475,7 +475,7 @@
     "name": {
       "ar": "مراكش",
       "fr": "Marrakech",
-      "en": null
+      "en": "Marrakech"
     },
     "region_code": "marrakech-safi"
   },
@@ -487,7 +487,7 @@
     "name": {
       "ar": "مديونة",
       "fr": "Médiouna",
-      "en": null
+      "en": "Mediouna"
     },
     "region_code": "casablanca-settat"
   },
@@ -499,7 +499,7 @@
     "name": {
       "ar": "مكناس",
       "fr": "Meknès",
-      "en": null
+      "en": "Meknès"
     },
     "region_code": "fes-meknes"
   },
@@ -511,7 +511,7 @@
     "name": {
       "ar": "ميدلت",
       "fr": "Midelt",
-      "en": null
+      "en": "Midelt"
     },
     "region_code": "draa-tafilalet"
   },
@@ -523,7 +523,7 @@
     "name": {
       "ar": "المحمدية",
       "fr": "Mohammadia",
-      "en": null
+      "en": "Mohammadia"
     },
     "region_code": "casablanca-settat"
   },
@@ -535,7 +535,7 @@
     "name": {
       "ar": "مولاي يعقوب",
       "fr": "Moulay Yacoub",
-      "en": null
+      "en": "Moulay Yacoub"
     },
     "region_code": "fes-meknes"
   },
@@ -547,7 +547,7 @@
     "name": {
       "ar": "الناضور",
       "fr": "Nador",
-      "en": null
+      "en": "Nador"
     },
     "region_code": "oriental"
   },
@@ -559,7 +559,7 @@
     "name": {
       "ar": "النواصر",
       "fr": "Nouaceur",
-      "en": null
+      "en": "Nouaceur"
     },
     "region_code": "casablanca-settat"
   },
@@ -571,7 +571,7 @@
     "name": {
       "ar": "ورزازات",
       "fr": "Ouarzazate",
-      "en": null
+      "en": "Ouarzazate"
     },
     "region_code": "draa-tafilalet"
   },
@@ -583,7 +583,7 @@
     "name": {
       "ar": "وادي الذهب",
       "fr": "Oued Ed-Dahab",
-      "en": null
+      "en": "Oued Ed-Dahab"
     },
     "region_code": "dakhla-oued-ed-dahab"
   },
@@ -595,7 +595,7 @@
     "name": {
       "ar": "وزان",
       "fr": "Ouezzane",
-      "en": null
+      "en": "Ouezzane"
     },
     "region_code": "tanger-tetouan-al-hoceima"
   },
@@ -607,7 +607,7 @@
     "name": {
       "ar": "وجدة-أنجاد",
       "fr": "Oujda-Angad",
-      "en": null
+      "en": "Oujda-Angad"
     },
     "region_code": "oriental"
   },
@@ -619,7 +619,7 @@
     "name": {
       "ar": "الرباط",
       "fr": "Rabat",
-      "en": null
+      "en": "Rabat"
     },
     "region_code": "rabat-sale-kenitra"
   },
@@ -631,7 +631,7 @@
     "name": {
       "ar": "الرحامنة",
       "fr": "Rehamna",
-      "en": null
+      "en": "Rehamna"
     },
     "region_code": "marrakech-safi"
   },
@@ -643,7 +643,7 @@
     "name": {
       "ar": "آسفي",
       "fr": "Safi",
-      "en": null
+      "en": "Safi"
     },
     "region_code": "marrakech-safi"
   },
@@ -655,7 +655,7 @@
     "name": {
       "ar": "سلا",
       "fr": "Salé",
-      "en": null
+      "en": "Sale"
     },
     "region_code": "rabat-sale-kenitra"
   },
@@ -667,7 +667,7 @@
     "name": {
       "ar": "صفرو",
       "fr": "Sefrou",
-      "en": null
+      "en": "Sefrou"
     },
     "region_code": "fes-meknes"
   },
@@ -679,7 +679,7 @@
     "name": {
       "ar": "سطات",
       "fr": "Settat",
-      "en": null
+      "en": "Settat"
     },
     "region_code": "casablanca-settat"
   },
@@ -691,7 +691,7 @@
     "name": {
       "ar": "سيدي بنور",
       "fr": "Sidi Bennour",
-      "en": null
+      "en": "Sidi Bennour"
     },
     "region_code": "casablanca-settat"
   },
@@ -703,7 +703,7 @@
     "name": {
       "ar": "سيدي إفني",
       "fr": "Sidi Ifni",
-      "en": null
+      "en": "Sidi Ifni"
     },
     "region_code": "guelmim-oued-noun"
   },
@@ -715,7 +715,7 @@
     "name": {
       "ar": "سيدي قاسم",
       "fr": "Sidi Kacem",
-      "en": null
+      "en": "Sidi Kacem"
     },
     "region_code": "rabat-sale-kenitra"
   },
@@ -727,7 +727,7 @@
     "name": {
       "ar": "سيدي سليمان",
       "fr": "Sidi Slimane",
-      "en": null
+      "en": "Sidi Slimane"
     },
     "region_code": "rabat-sale-kenitra"
   },
@@ -739,7 +739,7 @@
     "name": {
       "ar": "الصخيرات-تمارة",
       "fr": "Skhirate-Témara",
-      "en": null
+      "en": "Skhirate-Temara"
     },
     "region_code": "rabat-sale-kenitra"
   },
@@ -751,7 +751,7 @@
     "name": {
       "ar": "طانطان",
       "fr": "Tan-Tan",
-      "en": null
+      "en": "Tan-Tan"
     },
     "region_code": "guelmim-oued-noun"
   },
@@ -763,7 +763,7 @@
     "name": {
       "ar": "طنجة-أصيلة",
       "fr": "Tanger-Assilah",
-      "en": null
+      "en": "Tanger-Assilah"
     },
     "region_code": "tanger-tetouan-al-hoceima"
   },
@@ -775,7 +775,7 @@
     "name": {
       "ar": "تاونات",
       "fr": "Taounate",
-      "en": null
+      "en": "Taounate"
     },
     "region_code": "fes-meknes"
   },
@@ -787,7 +787,7 @@
     "name": {
       "ar": "تاوريرت",
       "fr": "Taourirt",
-      "en": null
+      "en": "Taourirt"
     },
     "region_code": "oriental"
   },
@@ -799,7 +799,7 @@
     "name": {
       "ar": "طرفاية",
       "fr": "Tarfaya",
-      "en": null
+      "en": "Tarfaya"
     },
     "region_code": "laayoune-sakia-el-hamra"
   },
@@ -811,7 +811,7 @@
     "name": {
       "ar": "تارودانت",
       "fr": "Taroudannt",
-      "en": null
+      "en": "Taroudannt"
     },
     "region_code": "souss-massa"
   },
@@ -823,7 +823,7 @@
     "name": {
       "ar": "طاطا",
       "fr": "Tata",
-      "en": null
+      "en": "Tata"
     },
     "region_code": "souss-massa"
   },
@@ -835,7 +835,7 @@
     "name": {
       "ar": "تازة",
       "fr": "Taza",
-      "en": null
+      "en": "Taza"
     },
     "region_code": "fes-meknes"
   },
@@ -847,7 +847,7 @@
     "name": {
       "ar": "تطوان",
       "fr": "Tétouan",
-      "en": null
+      "en": "Tetouan"
     },
     "region_code": "tanger-tetouan-al-hoceima"
   },
@@ -859,7 +859,7 @@
     "name": {
       "ar": "تنغير",
       "fr": "Tinghir",
-      "en": null
+      "en": "Tinghir"
     },
     "region_code": "draa-tafilalet"
   },
@@ -871,7 +871,7 @@
     "name": {
       "ar": "تيزنيت",
       "fr": "Tiznit",
-      "en": null
+      "en": "Tiznit"
     },
     "region_code": "souss-massa"
   },
@@ -883,7 +883,7 @@
     "name": {
       "ar": "اليوسفية",
       "fr": "Youssoufia",
-      "en": null
+      "en": "Youssoufia"
     },
     "region_code": "marrakech-safi"
   },
@@ -895,7 +895,7 @@
     "name": {
       "ar": "زاكورة",
       "fr": "Zagora",
-      "en": null
+      "en": "Zagora"
     },
     "region_code": "draa-tafilalet"
   }
