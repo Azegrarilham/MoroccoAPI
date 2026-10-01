@@ -1,6 +1,6 @@
 id: administrative-subdivisions
 title: Morocco provinces, prefectures, prefectures of arrondissements, communes, and arrondissements (RGPH 2024)
-version: 3.0.0
+version: 3.1.0
 retrieved_at: 2026-09-26
 license: CC-BY-4.0
 license_url: https://creativecommons.org/licenses/by/4.0/
@@ -35,4 +35,3 @@ limitations:
   - Cercles are not published as a standalone dataset because their legal organization changed after RGPH 2024, including in 2025.
   - Urban centres in the workbook are statistical units and are outside this administrative API scope.
   - The source follows Morocco's official territorial scope, including Moroccan-administered territory in Western Sahara.
-
