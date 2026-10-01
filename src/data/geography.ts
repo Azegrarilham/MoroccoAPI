@@ -385,7 +385,7 @@ export function buildGeographyDatasetMeta(
     total,
     license: "CC-BY-4.0",
     retrieved_at: "2026-09-26",
-    transformation_version: "3.0.0",
+    transformation_version: "3.1.0",
     sources: [
       {
         dataset:
