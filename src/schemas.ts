@@ -222,7 +222,7 @@ export function geographyDatasetMetaSchema(
       total: { type: "integer", minimum: 0 },
       license: { const: "CC-BY-4.0" },
       retrieved_at: { const: "2026-09-26" },
-      transformation_version: { const: "3.0.0" },
+      transformation_version: { const: "3.1.0" },
       sources: { type: "array", minItems: 1, items: hcpSourceSchema },
     },
   } as const;

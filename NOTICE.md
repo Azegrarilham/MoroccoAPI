@@ -15,5 +15,5 @@ version 2.0.0. Full provenance and source checksums are recorded under `sources/
 
 Contains information from the same HCP RGPH 2024 legal-population workbook for
 provinces, prefectures, prefectures of arrondissements, communes, and
-arrondissements. Normalized by MoroccoAPI as transformation version 3.0.0. The
+arrondissements. Normalized by MoroccoAPI as transformation version 3.1.0. The
 source follows Morocco's official territorial scope.
