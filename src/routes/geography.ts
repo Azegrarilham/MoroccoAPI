@@ -119,7 +119,7 @@ export async function registerGeographyRoutes(
       schema: {
         tags: ["Administrative geography"],
         summary:
-          "Get all administrative provinces and prefectures of arrondissements by MoroccoAPI region code",
+          "Get all subdivisions (provinces and prefectures) by MoroccoAPI region code",
         params: codeParamsSchema,
         response: {
           200: {
